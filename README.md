@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Rick Deakins portfolio
+
+Welcome! I am a full stack developer in the making. I have a passion for all things front end, listed on my portfolio are a few of my recent projects. Feel free to reach out to me with any questions!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
